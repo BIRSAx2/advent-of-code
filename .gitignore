@@ -1,0 +1,8 @@
+*.beam
+*.ez
+input/*
+!input/.gitkeep
+/build
+erl_crash.dump
+.idea
+.vscode
